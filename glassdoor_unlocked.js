@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Glassdoor Unlocked
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/h3x0x0/Glassdoor-Unlocked/blob/main/glassdoor_unlocked.js
 // @version      1.0
 // @description  Enhances the Glassdoor user experience by removing intrusive overlays and revealing collapsed reviews and interview details for easy access to valuable insights.
 // @author       h3x0x0
