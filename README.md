@@ -1,6 +1,6 @@
 # Glassdoor Unlocked
 
-**Glassdoor Unlocked** is a Tampermonkey userscript that enhances your Glassdoor experience by removing intrusive overlays and revealing collapsed reviews and interview details.
+**Glassdoor Unlocked** is a script that enhances your Glassdoor experience by removing intrusive overlays and revealing collapsed reviews and interview details.
 
 ## Features
 
