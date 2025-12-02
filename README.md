@@ -24,6 +24,7 @@
    - Click the "+" icon to create a new script.
    - Remove any template code in the new script window.
    - Copy and paste the script code from [glassdoor_unlocked.js](https://github.com/h3x0x0/Glassdoor-Unlocked/blob/main/glassdoor_unlocked.js) into the Tampermonkey editor.
+   - Backup at [Greasyfork.org](https://greasyfork.org/en/scripts/557630-glassdoor-unlocked)
 
 3. **Save the Script**:
    - Click "File" then "Save" or press `Ctrl + S`.
