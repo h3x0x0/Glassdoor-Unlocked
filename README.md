@@ -46,5 +46,5 @@ Feel free to fork the repository and submit your contributions or enhancements!
 
 ## License
 
-This project is licensed under the GPL License.
+This project is licensed under the GPL-3.0 License.
 
