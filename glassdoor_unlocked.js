@@ -6,7 +6,7 @@
 // @author       h3x0x0
 // @match        *://www.glassdoor.com/*
 // @run-at       document-end
-// @icon         https://openclipart.org/image/800px/svg_to_png/231556/user.png  // Public domain icon
+// @icon         https://openclipart.org/image/800px/svg_to_png/231556/user.png
 // ==/UserScript==
 
 (function() {
